@@ -1,4 +1,5 @@
 # S.A.M
+
 COMP 1028 project
 •	How to Compile:
 	This program is written in C and was developed using the MinGW GCC compiler. As the project is separated into different files, all source files must be linked during compilation.
