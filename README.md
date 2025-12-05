@@ -1,6 +1,7 @@
 # S.A.M
 
 COMP 1028 project
+
 •	How to Compile:
 	This program is written in C and was developed using the MinGW GCC compiler. As the project is separated into different files, all source files must be linked during compilation.
 	To compile the program, navigate to the project directory in your terminal and run the following command: gcc main.c analysis.c file_io.c report.c sorting.c tokenizer.c toxicity.c ui.c -o      analyzer.exe
